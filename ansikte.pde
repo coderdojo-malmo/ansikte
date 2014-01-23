@@ -1,4 +1,4 @@
-//ett pratande ansikte, styr mun med pilar
+//ett pratande ansikte, styr mun med pil upp och ned
 int mun;
 
 void setup() {
